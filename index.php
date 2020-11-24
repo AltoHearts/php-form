@@ -20,8 +20,8 @@ if(isset($_GET["FirstName"])){//show info
   
   <p>Sundae Toppings:</p>
   <p><input type="radio" name="Toppings[]" value="oreos" /><br /> Oreos </p>
-  <p><input type="radio" name="Toppings[]" value="whipped cream" /><br /> Whipped Cream</p>
-  <p><input type="radio" name="Toppings[]" value="crushed nuts" /><br /> Crushed Nuts</p>
+  <p><input type="radio" name="Toppings[]" value="whipped cream" /><br /> Whipped Cream </p>
+  <p><input type="radio" name="Toppings[]" value="crushed nuts" /><br /> Crushed Nuts </p>
   <input type="submit" />
  </form> 
   ';
